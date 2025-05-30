@@ -1,5 +1,7 @@
 ## Welcome
 
+![Trace Banner](../assets/banner.png)
+
 This GitHub organization is created and maintained by Trace's original creators and maintainers following a contribution-based open governance protocol.
 
 The code under this repo is the primary and most up-to-date source code for [`trace-opt`](https://pypi.org/project/trace-opt/) package when you install with PyPI (pip).
