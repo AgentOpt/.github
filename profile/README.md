@@ -1,6 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
 ![PyPI](https://img.shields.io/pypi/v/trace-opt)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/trace-opt)
 
 ## Welcome
 
