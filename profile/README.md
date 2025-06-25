@@ -18,5 +18,5 @@ Main repos:
 
 Join us in AG2 community discord: 
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/9CcNqXAnPC)](https://discord.gg/https://discord.gg/9CcNqXAnPC)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/9CcNqXAnPC)](https://discord.gg/9CcNqXAnPC)
 
