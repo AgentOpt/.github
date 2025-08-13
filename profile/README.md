@@ -16,7 +16,7 @@ pip install trace-opt
 Main repos:
 - [Trace](https://github.com/AgentOpt/Trace)
 
-Join us in AG2 community discord: 
+Join us in Trace community discord: 
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/9CcNqXAnPC)](https://discord.gg/9CcNqXAnPC)
 
