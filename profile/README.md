@@ -14,7 +14,7 @@ pip install trace-opt
 ```
 
 Main repos:
-- [Trace](https://github.com/AgentOpt/Trace)
+- [OpenTrace](https://github.com/AgentOpt/OpenTrace): An open-source, open-governance version of Trace, with the same group of creators and maintainers.
 
 Join us in Trace community discord: 
 
